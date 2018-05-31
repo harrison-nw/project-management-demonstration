@@ -1,3 +1,6 @@
 # TEST BIG
 ## Test little
-[ist items]
+
+- Sort
+- Prioritization
+- Reporting
